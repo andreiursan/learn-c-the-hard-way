@@ -10,4 +10,6 @@ int main(){
   printf("\vJohn is %f inches.\n", johnHeight); 
   printf("But you can round it to %.2f inches.\n", johnHeight);
   printf("Or you can trunc it to %g inches.\n", johnHeight);
+
+  return 0;
 }
